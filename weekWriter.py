@@ -34,7 +34,7 @@ def spacer(amount):
     guiPress('enter', presses=amount)
 
 def morning_routine():
-    guiWrite('- [ ] **6:00am** Wake up, gym, prepair for classes')
+    guiWrite('- [ ] **6:00am** Wake up, gym, prepare for classes')
     spacer(3)
 	
 def after_5pm():
